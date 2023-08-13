@@ -7,5 +7,6 @@
 
 
 <p>and guss what?</p>
-$\color[rgb]{16, 164, 190} it's too easy$
+
+$\color[rgb]{16,164,190} it's too easy$
 
