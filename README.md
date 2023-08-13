@@ -8,4 +8,4 @@
 
 <p>and guss what?</p>
 
-<p style="color: red;">it's too easy</p
+<p style="color:#f03c15;">it's too easy</p
