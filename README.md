@@ -2,7 +2,7 @@
 
 //here we go🤞
 
-//this is frist clock i made with HTML/CSS/JS
+<b>this is frist clock i made with HTML/CSS/JS</b>
 
 
 
