@@ -7,6 +7,6 @@
 
 
 <p>and guss what?</p>
-$${\color{red}Red}$$
-<p style="color:#f03c15;">it's too easy</p
+
+<p $${\color{red}Red}$$>it's too easy</p
 
