@@ -7,8 +7,5 @@
 
 
 <p>and guss what?</p>
-
-<p $${\color{red}Red}$$>it's too easy</p>
-
-$\color[rgb]{1,0,1} hello$
+$\color[rgb]{16, 164, 190} it's too easy$
 
