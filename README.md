@@ -8,5 +8,5 @@
 
 <p>and guss what?</p>
 
-$\color[RGB]{16,164,190} it's too easy$
+<p>$\color[RGB]{16,164,190} it's too easy$</p>
 
