@@ -10,3 +10,5 @@
 
 <p $${\color{red}Red}$$>it's too easy</p>
 
+$\color[rgb]{1,0,1} hello$
+
