@@ -8,5 +8,5 @@
 
 <p>and guss what?</p>
 
-<p $${\color{red}Red}$$>it's too easy</p
+<p $${\color{red}Red}$$>it's too easy</p>
 
