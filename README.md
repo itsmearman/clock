@@ -1,6 +1,6 @@
 //ok........
 
-//here we go🤞
+<p>here we go🤞</p>
 
 <b>this is frist clock i made with HTML/CSS/JS</b>
 
