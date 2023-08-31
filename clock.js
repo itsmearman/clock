@@ -1,3 +1,4 @@
+//const defining
 const deg = 6;
 
 const hr = document.querySelector('#hr');
@@ -32,7 +33,7 @@ function clockRuner() {
     if (hour > 12) {
         hour -= 12;
         p = 'PM';
-    }
+    }//AM clock
 
     if (hour < 10) {
         hour = "0" + hour;
@@ -42,11 +43,11 @@ function clockRuner() {
     }
     if (second < 10) {
         second = "0" + second;
-    }
+    }//for two number and doesn't change style
 
     var clock = hour + ":" + minute + ":" + second + " " + p;
     document.getElementById('digital').textContent = clock;
-
+//show clock
     setTimeout(clockRuner, 1000);
 }
 
